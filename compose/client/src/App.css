@@ -3,8 +3,8 @@
 }
 
 .App-logo {
-  padding: 70px;
-  height: 30vmin;
+  padding: 60px;
+  height: 50vmin;
   pointer-events: none;
 }
 
@@ -31,4 +31,21 @@
 
 h1 {
   color: pink;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.loid {
+  height: 30vmin;
+  padding-right: 100px;
+}
+
+.yor {
+  height: 30vmin;
+  padding-left: 100px;
 }
